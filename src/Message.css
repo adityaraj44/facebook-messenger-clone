@@ -12,9 +12,12 @@
 
 .message_userCard {
   color: #e9e9eb !important;
+  margin-bottom: 50px;
+
   background-color: #0b81ff !important ;
 }
 
 .message_guestCard {
+  margin-bottom: 50px;
   background-color: #e9e9eb !important ;
 }

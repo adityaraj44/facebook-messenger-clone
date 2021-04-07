@@ -4,9 +4,10 @@
 }
 
 .app_form {
-  padding: 20px;
+  padding: 10px;
   position: fixed;
   bottom: 0px;
+
   z-index: 1;
   background-color: #e9e9eb;
   width: 90%;

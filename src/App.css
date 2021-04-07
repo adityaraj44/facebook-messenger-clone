@@ -1,3 +1,25 @@
-* {
+.App {
   font-family: sans-serif;
+  text-align: center;
+}
+
+.app_form {
+  padding: 20px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 1;
+  background-color: #e9e9eb;
+  width: 90%;
+}
+
+.app_formcontrol {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+}
+.app_input {
+  flex: 1;
+}
+.app_iconButton {
+  flex: 0;
 }
